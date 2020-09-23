@@ -27,13 +27,13 @@ const sdata =[
         title: "Netflix Original Series",
         links:"https://www.netflix.com/in/title/70143860"
     },
-    // {
-    //     id:5,
-    //     sname: "DARK",
-    //     imgsrc:"https://wallpapercave.com/wp/wp4056410.jpg",
-    //     title: "Netflix Original Series",
-    //     links:"https://www.netflix.com/in/title/80100172"
-    // },
+     {
+         id:5,
+         sname: "The Umbrella Academy",
+         imgsrc:"https://wallpapercave.com/wp/wp3974827.jpg",
+         title: "Netflix Original Series",
+         links:"https://www.netflix.com/in/title/80186863"
+     },
     // {
     //     id:6,
     //     sname: "Extraction",

@@ -95,14 +95,14 @@ const sdata =[
     //     sname: "Extraction",
     //     imgsrc:"https://wallpapercave.com/wp/wp6273243.jpg",
     //     title: "Netflix Original Series",
-    //     links:"https://www.netflix.com/in/title/80230399"
+    //     links:"https://www.netflix.com/in/title/80057281"
     // },
     // {
     //     id:15,
     //     sname: "Stranger Things",
     //     imgsrc:"https://wallpapercave.com/wp/wp1839578.jpg",
     //     title: "Netflix Original Series",
-    //     links:"https://www.netflix.com/in/title/80057281"
+    //     links:"https://www.netflix.com/in/title/80230399"
     // },
     // {
     //     id:16,
